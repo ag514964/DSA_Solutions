@@ -1,6 +1,7 @@
 package String_Solutions;
 
-public class Reverse_Words_in_a_String_151 { public static void main(String[] args) {
+public class Reverse_Words_in_a_String_151 { 
+    public static void main(String[] args) {
     
     //System.out.println(reverseWords("  the sky   is blue   "));
     System.out.println(reverseWords("   the   sky is   blue"));
